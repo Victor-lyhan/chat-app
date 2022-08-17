@@ -51,8 +51,8 @@
 		68BC4A3728AD7F8800588716 /* chatApp */ = {
 			isa = PBXGroup;
 			children = (
-				68BC4A3828AD7F8800588716 /* chatAppApp.swift */,
 				68BC4A3A28AD7F8800588716 /* ContentView.swift */,
+				68BC4A3828AD7F8800588716 /* chatAppApp.swift */,
 				68BC4A3C28AD7F8900588716 /* Assets.xcassets */,
 				68BC4A3E28AD7F8900588716 /* Preview Content */,
 			);
